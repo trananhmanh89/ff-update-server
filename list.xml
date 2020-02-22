@@ -1,4 +1,4 @@
 <extensionset name="Funfis" description="Funfis Extensions">
-    <extension name="Itune Feed Display" element="mod_ff_itune_feed" type="module" version="1.0.1" detailsurl="https://github.com/trananhmanh89/mod-ff-itune-feed" infourl="https://funfis.com/upgrade-steps"/>
+    <extension name="Itune Feed Display" element="mod_ff_itune_feed" type="module" version="1.0.1" detailsurl="Click link below to download update" infourl="https://github.com/trananhmanh89/mod-ff-itune-feed/releases"/>
     <extension name="Music Chart Display" element="mod_ff_music_chart" type="module" version="1.0.0" detailsurl="https://funfis.com" infourl="https://funfis.com/upgrade-steps"/>
 </extensionset>
