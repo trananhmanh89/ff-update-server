@@ -9,7 +9,7 @@
     <extension 
        name="Music Chart Display" 
        element="mod_ff_music_chart" 
-       type="module" version="1.0.0" 
+       type="module" version="1.0.1" 
        detailsurl="Click link below to download new version" 
        infourl="https://github.com/trananhmanh89/mod-ff-music-chart/releases"/>
 </extensionset>
