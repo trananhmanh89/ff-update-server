@@ -12,4 +12,10 @@
        type="module" version="1.0.1" 
        detailsurl="Click link below to download new version" 
        infourl="https://github.com/trananhmanh89/mod-ff-music-chart/releases"/>
+    <extension 
+       name="FF Explorer" 
+       element="com_ffexplorer" 
+       type="module" version="1.0.0" 
+       detailsurl="Click link below to download new version" 
+       infourl="https://github.com/trananhmanh89/ffexplorer"/>
 </extensionset>
