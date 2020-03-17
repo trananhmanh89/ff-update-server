@@ -21,7 +21,7 @@
     <extension 
        name="FF Redirect" 
        element="ff_redirect" 
-       type="plugin" version="1.0.0" 
+       type="plugin" version="1.0.1" 
        detailsurl="Click link below to download new version" 
        infourl="https://github.com/trananhmanh89/ff-redirect"/>
 </extensionset>
