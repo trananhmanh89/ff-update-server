@@ -15,14 +15,7 @@
     <extension 
        name="FF Explorer" 
        element="com_ffexplorer" 
-       type="module" version="1.0.0" 
+       type="module" version="1.0.1" 
        detailsurl="Click link below to download new version" 
        infourl="https://github.com/trananhmanh89/ffexplorer"/>
-    <extension 
-       name="FF Redirect" 
-       element="ff_redirect" 
-       folder="system"
-       type="plugin" version="1.0.0" 
-       detailsurl="Click link below to download new version" 
-       infourl="https://github.com/trananhmanh89/ff-redirect"/>
 </extensionset>
