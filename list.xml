@@ -15,7 +15,7 @@
     <extension 
        name="FF Explorer" 
        element="com_ffexplorer" 
-       type="module" version="1.0.4" 
-       detailsurl="Click link below to download new version" 
+       type="module" version="1.0.5" 
+       detailsurl="https://raw.githubusercontent.com/trananhmanh89/ff-update-server/master/com_ffexplorer.xml" 
        infourl="https://github.com/trananhmanh89/ffexplorer"/>
 </extensionset>
